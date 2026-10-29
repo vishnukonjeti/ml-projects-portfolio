@@ -1,6 +1,6 @@
-# Machine Learning Practice Portfolio
+# Machine Learning Projects Portfolio
 
-Welcome to my Machine Learning Practice Portfolio! This repository contains end-to-end machine learning projects, practical predictive systems, exploratory data analysis (EDA), and model experiments built using Python and Scikit-Learn.
+Welcome to my Machine Learning Projects Portfolio! This repository contains end-to-end machine learning projects, practical predictive systems, exploratory data analysis (EDA), and model experiments built using Python and Scikit-Learn.
 
 ---
 
