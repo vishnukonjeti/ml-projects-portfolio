@@ -57,7 +57,7 @@ The dataset used is the standard **Sonar, Mines vs. Rocks** dataset (collected b
 ## 📁 Project Structure
 
 ```text
-sonar-rock-vs-mine-prediction/
+Project 1 - sonar-rock-vs-mine-prediction/
 ├── Rock vs Mine Prediction.ipynb   # Main Jupyter notebook with data analysis & model
 ├── sonar_data.csv                  # Sonar dataset
 └── README.md                       # Project documentation

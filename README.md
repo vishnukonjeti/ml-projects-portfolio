@@ -8,7 +8,8 @@ Welcome to my Machine Learning Projects Portfolio! This repository contains end-
 
 | # | Project Name | Problem Type | Algorithm / Technique | Key Metrics | Link |
 |---|--------------|--------------|-----------------------|-------------|------|
-| 1 | **SONAR Rock vs. Mine Prediction** | Binary Classification | Logistic Regression, Stratified Sampling | **Train Acc**: ~83.4%<br>**Test Acc**: ~76.2% | [View Project](sonar-rock-vs-mine-prediction/) |
+| 1 | **SONAR Rock vs. Mine Prediction** | Binary Classification | Logistic Regression, Stratified Sampling | **Train Acc**: ~83.4%<br>**Test Acc**: ~76.2% | [View Project](Project%201%20-%20sonar-rock-vs-mine-prediction/) |
+| 2 | **Diabetes Prediction** | Binary Classification | Support Vector Machine (Linear SVM), Standardization | **Train Acc**: ~78.7%<br>**Test Acc**: ~77.3% | [View Project](Project%202%20-%20diabetes-prediction/) |
 
 ---
 
@@ -16,9 +17,13 @@ Welcome to my Machine Learning Projects Portfolio! This repository contains end-
 
 ```text
 ml-practice-portfolio/
-├── sonar-rock-vs-mine-prediction/
+├── Project 1 - sonar-rock-vs-mine-prediction/
 │   ├── Rock vs Mine Prediction.ipynb   # Exploratory analysis, training, and inference
 │   ├── sonar_data.csv                  # Sonar signal dataset (60 features)
+│   └── README.md                       # Project-specific documentation & workflow
+├── Project 2 - diabetes-prediction/
+│   ├── diabetes-prediction.ipynb       # Data exploration, scaling, SVM training, and inference
+│   ├── diabetes.csv                    # Pima Indians diabetes dataset (8 features)
 │   └── README.md                       # Project-specific documentation & workflow
 ├── .gitignore                          # Git ignore rules for Python, Jupyter, OS, and envs
 ├── LICENSE                             # MIT License
