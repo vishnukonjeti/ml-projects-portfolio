@@ -12,6 +12,7 @@ Welcome to my Machine Learning Projects Portfolio! This repository contains end-
 | 2 | **Diabetes Prediction** | Binary Classification | Support Vector Machine (Linear SVM), Standardization | **Train Acc**: ~78.7%<br>**Test Acc**: ~77.3% | [View Project](Project%202%20-%20diabetes-prediction/) |
 | 3 | **Fake News Prediction** | Binary Classification (NLP) | Logistic Regression, TF-IDF Vectorization, Porter Stemmer | **Train Acc**: ~98.6%<br>**Test Acc**: ~97.9% | [View Project](Project%203%20-%20fake-news-prediction/) |
 | 4 | **Loan Status Prediction** | Binary Classification | Support Vector Machine (Linear SVM), Categorical Encoding | **Train Acc**: ~79.9%<br>**Test Acc**: ~83.3% | [View Project](Project%204%20-%20loan-status-prediction/) |
+| 5 | **Wine Quality Prediction** | Binary Classification | Random Forest Classifier, Feature Correlation | **Train Acc**: ~100.0%<br>**Test Acc**: ~94.1% | [View Project](Project%205%20-%20wine-quality-prediction/) |
 
 ---
 
@@ -34,6 +35,10 @@ ml-practice-portfolio/
 ├── Project 4 - loan-status-prediction/
 │   ├── loan-status-prediction.ipynb    # Data exploration, encoding, SVM training, and inference
 │   ├── loan_status_dataset.csv         # Loan applicant dataset (11 features)
+│   └── README.md                       # Project-specific documentation & workflow
+├── Project 5 - wine-quality-prediction/
+│   ├── wine-quality-prediction.ipynb   # Data exploration, correlation, Random Forest, inference
+│   ├── wine_quality_dataset.csv        # Red wine quality dataset (11 features)
 │   └── README.md                       # Project-specific documentation & workflow
 ├── .gitignore                          # Git ignore rules for Python, Jupyter, OS, and envs
 ├── LICENSE                             # MIT License
